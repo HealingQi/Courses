@@ -1542,7 +1542,7 @@ body {
 }
 .cid-rYlQkEfrpB {
   padding-top: 60px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-rYlQkEfrpB .mbr-section-subtitle {
@@ -1552,8 +1552,11 @@ body {
 .cid-rYlQkEfrpB .mbr-section-subtitle DIV {
   color: #232323;
 }
+.cid-rYlQkEfrpB .mbr-section-subtitle B {
+  color: #232323;
+}
 .cid-rYlQo2XyYC {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #ffffff;
 }
